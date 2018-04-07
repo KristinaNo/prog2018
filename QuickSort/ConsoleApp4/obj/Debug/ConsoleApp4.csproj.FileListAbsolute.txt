@@ -1,0 +1,12 @@
+C:\Users\student\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\student\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\student\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\student\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojResolveAssemblyReference.cache
+C:\Users\student\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\student\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\student\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ClassLibrary2.dll
+C:\Users\student\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ClassLibrary2.pdb
+C:\Users\111\Desktop\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\111\Desktop\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\111\Desktop\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

@@ -1,0 +1,16 @@
+C:\Users\111\Desktop\ConsoleApp4\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\111\Desktop\ConsoleApp4\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\111\Desktop\ConsoleApp4\ClassLibrary2\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\111\Desktop\ConsoleApp4\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\111\Desktop\ConsoleApp4\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\111\Desktop\QuickSort\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\111\Desktop\QuickSort\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\111\Desktop\QuickSort\ClassLibrary2\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\111\Desktop\QuickSort\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\111\Desktop\QuickSort\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\Кристина\Desktop\QuickSort\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\Кристина\Desktop\QuickSort\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\Кристина\Desktop\QuickSort\ClassLibrary2\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Кристина\Desktop\QuickSort\ClassLibrary2\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Кристина\Desktop\QuickSort\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\Кристина\Desktop\QuickSort\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
