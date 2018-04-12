@@ -1,0 +1,10 @@
+E:\ПО\ДизайнерскоеБюро\ДизайнерскоеБюроDLL\bin\Debug\ДизайнерскоеБюроDLL.dll
+E:\ПО\ДизайнерскоеБюро\ДизайнерскоеБюроDLL\bin\Debug\ДизайнерскоеБюроDLL.pdb
+E:\ПО\ДизайнерскоеБюро\ДизайнерскоеБюроDLL\obj\Debug\ДизайнерскоеБюроDLL.dll
+E:\ПО\ДизайнерскоеБюро\ДизайнерскоеБюроDLL\obj\Debug\ДизайнерскоеБюроDLL.pdb
+C:\Users\Кристина\Desktop\ДизайнерскоеБюро\ДизайнерскоеБюроDLL\bin\Debug\ДизайнерскоеБюроDLL.dll
+C:\Users\Кристина\Desktop\ДизайнерскоеБюро\ДизайнерскоеБюроDLL\bin\Debug\ДизайнерскоеБюроDLL.pdb
+C:\Users\Кристина\Desktop\ДизайнерскоеБюро\ДизайнерскоеБюроDLL\obj\Debug\ДизайнерскоеБюроDLL.csprojResolveAssemblyReference.cache
+C:\Users\Кристина\Desktop\ДизайнерскоеБюро\ДизайнерскоеБюроDLL\obj\Debug\ДизайнерскоеБюроDLL.csproj.CoreCompileInputs.cache
+C:\Users\Кристина\Desktop\ДизайнерскоеБюро\ДизайнерскоеБюроDLL\obj\Debug\ДизайнерскоеБюроDLL.dll
+C:\Users\Кристина\Desktop\ДизайнерскоеБюро\ДизайнерскоеБюроDLL\obj\Debug\ДизайнерскоеБюроDLL.pdb
